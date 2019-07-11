@@ -1,4 +1,3 @@
-package first;
 
 public class Mobile {
     private String name;

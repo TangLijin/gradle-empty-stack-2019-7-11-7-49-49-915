@@ -1,4 +1,4 @@
-package first;
+
 
 //A Person (has a name) can use different Mobile to make a call. However, the iPhone and Andriod have different message
 //length limit.if message length exceeds the limit, CLI should output “<iPhone> Message cannot be sent” and “<Andriod>

@@ -1,4 +1,4 @@
-package first;
+
 
 //I have an iPhone, it is also a Mobile. When I use it to make a call,
 // CLI will output “<iPhone>Message : [your input message]”， [your input message] should be passed to Mobile.
